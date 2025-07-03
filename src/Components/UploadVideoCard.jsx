@@ -288,7 +288,7 @@ const UploadVideoCard = ({ setShowVideoForm, doctorName, doctorId }) => {
                 className="w-full h-[480px] object-cover rounded-md border border-gray-300 mt-2"
                 style={{
                   transform: "rotate(0deg)",
-                  aspectRatio: "9 / 16",
+                  aspectRatio: "16/9",
                   objectFit: "cover",
                 }}
               />
